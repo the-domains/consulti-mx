@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[consulti.mx]]></title>
-        <description><![CDATA[consulti.mx]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Estrategia y Consultoría en TI]]></title>
+        <description><![CDATA[Estrategia y Consultoría en TI]]></description>
+        <link>https://thegrid.ai/consulti-mx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 22:14:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 22:31:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/consulti-mx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gerencia “Virtual” de TI]]></title>
+            <description><![CDATA[<article><h1>Gerencia “Virtual” de TI</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1b2c4ea-1cc8-4a83-b90a-bc90af6dc36b.png"></article>]]></description>
+            <link>https://thegrid.ai/consulti-mx/gerencia-virtual-de-ti/index.html</link>
+            <guid isPermaLink="false">8562f428-cd1d-4ddf-8484-cce7e4cffa12</guid>
+            <pubDate>Thu, 03 Mar 2016 22:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea322e08-9b8c-4e5c-9a4c-364d61eccce1.png">]]></description>
-            <link>undefined55293253-5372-4b2a-b77b-91fbe02df2a8/index.html</link>
+            <link>https://thegrid.ai/consulti-mx/55293253-5372-4b2a-b77b-91fbe02df2a8/index.html</link>
             <guid isPermaLink="false">55293253-5372-4b2a-b77b-91fbe02df2a8</guid>
             <pubDate>Thu, 03 Mar 2016 22:13:34 GMT</pubDate>
         </item>
